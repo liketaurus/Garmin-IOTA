@@ -1,12 +1,12 @@
 # Garmin-IOTA
 
-:watch: A very simple widget for viewing **(M)[IOTA](https://www.iota.org/)** cryptocurrency to USD rate (using [Cryptonator's API](https://www.cryptonator.com/api)). You can refresh data by just one touch!
+A very simple widget for viewing **(M)[IOTA](https://www.iota.org/)** cryptocurrency to USD rate (using [Cryptonator's API](https://www.cryptonator.com/api)). You can refresh data by just one touch!
 
 <p align="center">
   <img src="docs/MIOTt-USD.png">
 </p>
 
-This is my first app for **[Garmin IQ](https://apps.garmin.com)** platform, that was created for my own needs in order of learning and exploring a *[Monkey C](https://developer.garmin.com/connect-iq/monkey-c/)* programming language. So don't judge:smirk: In the future I plan to add more features.
+This is my first app for :watch: **[Garmin IQ](https://apps.garmin.com)** platform, that was created for my own needs in order of learning and exploring a *[Monkey C](https://developer.garmin.com/connect-iq/monkey-c/)* programming language. So don't judge:smirk: In the future I plan to add more features.
 
 ## Tools needed
 - :computer: [Eclipse](https://www.eclipse.org/downloads/)
